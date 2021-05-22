@@ -1,0 +1,17 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+
+.instructions{
+    float: right;
+    border: 1px solid white;
+}
+.background.jpg{
+    width: 100%;
+    
+}
+.start{
+font-size: 22px;
+}
